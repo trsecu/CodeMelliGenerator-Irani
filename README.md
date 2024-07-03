@@ -24,5 +24,6 @@ This project allows you to generate valid national identification codes (kods) f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NationalCodeGenerator.git
-   cd NationalCodeGenerator
+   git clone https://github.com/trsecu/CodeMelliGenerator-Irani.git
+   cd CodeMelliGenerator-Irani
+   python CodeMelliGenerator.py
